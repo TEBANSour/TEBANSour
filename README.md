@@ -39,7 +39,3 @@
 - 🖥️ **Github Portfolio**: [DevXirax-Portfolio](https://github.com/TEBANSour/DevXirax-Portfolio)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEBANSour&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Esteban stats" />
-</p>
