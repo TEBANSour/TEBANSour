@@ -37,5 +37,3 @@
 - 💼 **LinkedIn**: [esteban-devxirax](https://www.linkedin.com/in/esteban-devxirax)
 - ✉️ **Email**: [estebanortiz1804@gmail.com](mailto:estebanortiz1804@gmail.com)
 - 🖥️ **Github Portfolio**: [DevXirax-Portfolio](https://github.com/TEBANSour/DevXirax-Portfolio)
-
----
